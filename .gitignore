@@ -1,0 +1,4 @@
+node_modules
+
+# Document files to ignore
+*.docx
